@@ -1,0 +1,6 @@
+framework module Pods_DigitalFrame {
+  umbrella header "Pods-DigitalFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}
